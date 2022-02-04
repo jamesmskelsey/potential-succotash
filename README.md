@@ -8,3 +8,10 @@ I realized suddenly that all them were in private repos... and that I could just
 
 1. Python
 2. JavaScript
+
+## Fibonacci and Recursion
+
+For some reason **every** programmer thinks that to solve for the nth position of the Fibonacci sequence you
+should use recursion.
+
+Stop. Get help. Find Binet.
