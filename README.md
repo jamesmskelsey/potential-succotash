@@ -15,3 +15,9 @@ For some reason **every** programmer thinks that to solve for the nth position o
 should use recursion.
 
 Stop. Get help. Find Binet.
+
+### Build Status
+
+Python Tests [![jamesmskelsey](https://circleci.com/gh/jamesmskelsey/solved-algorithms.svg?style=svg)](localhost)
+
+Have you played with CircleCI? It's so, so easy to do. Jeez.
