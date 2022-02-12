@@ -9,6 +9,3 @@ def fibonacci(n):
     onePlus = pow((1 + math.sqrt(5)) / 2, n)
     oneMinus = pow((1 - math.sqrt(5)) / 2, n)
     return math.trunc((onePlus - oneMinus) / math.sqrt(5))
-
-
-print(fibonacci(100))
