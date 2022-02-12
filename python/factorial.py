@@ -7,4 +7,3 @@ def factorial(num):
       output *= i
   return output
 
-print(factorial(8))
